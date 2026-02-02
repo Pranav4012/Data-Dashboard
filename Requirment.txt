@@ -1,0 +1,6 @@
+pandas==2.3.3
+matplotlib==3.10.7
+sklearn.model_selection
+sklearn.linear_model 
+sklearn.metrics
+scikit-learn==1.8.0
